@@ -1,6 +1,6 @@
 # China Bistro
 
-### The site is published at [China Bistro](https://olga-qa-usa.github.io/Coursera-HTML-CSS-and-JavaScript/module5-solution/).
+### The site is published at [China Bistro](https://dymaretska.github.io/Coursera-HTML-CSS-and-JavaScript/module5-solution/).
 
 ## Description
 This was the final project I did as a part of a Coursera course - [HTML,CSS and JavaScript For Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome). This is fairly a basic multi-page responsive website of a fictitious restaurant, which can be used as a template for building restaurant portfolio websites. 
